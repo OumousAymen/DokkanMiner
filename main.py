@@ -5,10 +5,10 @@ import gc
 import traceback
 
 # Paths
-quickbms_path = "/cpktools/quickbms.exe"
-bms_script_path = "/cpktools/cpk.bms"
-base_directory = "/com.bandainamcogames.dbzdokkanww/"
-output_base = "/datafiles/"
+quickbms_path = "cpktools/quickbms.exe"
+bms_script_path = "cpktools/cpk.bms"
+base_directory = "Uncrypted_Files"
+output_base = "Decrypted_Files"
 
 counter = 0  # File counter
 
@@ -53,7 +53,6 @@ for root, _, files in os.walk(base_directory):
 
         counter += 1
         if counter % 10 == 0:
-
             gc.collect()
 
 print(" Processing complete!")
