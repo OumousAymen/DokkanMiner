@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="CPKTools.exe" source="original">
+    <mtime>1612626732</mtime>
+    <size>16896</size>
+    <md5>759d63183b969fac46eacdcdb8d5ed1a</md5>
+    <crc32>010396c9</crc32>
+    <sha1>096f81c83e0bfefa3922e0c76ef15d23b3684955</sha1>
+    <format>Windows Executable</format>
+  </file>
+  <file name="CPKTools.pdb" source="original">
+    <mtime>1612626735</mtime>
+    <size>28160</size>
+    <md5>a53110cb7f2385170fe29cd4684bf43d</md5>
+    <crc32>8d384145</crc32>
+    <sha1>cf01ea48c3b28fa9746074eea4c0359273769796</sha1>
+    <format>PalmOS Database</format>
+  </file>
+  <file name="CpkMaker.DLL" source="original">
+    <mtime>1612626725</mtime>
+    <size>225280</size>
+    <md5>2dc8cf463ccd2dfecf30d8fcb17d38af</md5>
+    <crc32>34485af3</crc32>
+    <sha1>c6eef87c50a2b18e002dac163f532207898b696c</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="cpk.bms" source="original">
+    <mtime>1612626692</mtime>
+    <size>8554</size>
+    <md5>cb2db27880dbbc47a44cd15728472a38</md5>
+    <crc32>1df0fce0</crc32>
+    <sha1>3abb23c740647ad6a1f5d71710620191624c1a07</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="cpkmakec.exe" source="original">
+    <mtime>1612626717</mtime>
+    <size>51200</size>
+    <md5>b06a7eb5fee15170da156c162bc805ae</md5>
+    <crc32>de9acf0f</crc32>
+    <sha1>94d260f0104848b8e42f4fef0ed17f4893dc48e5</sha1>
+    <format>Windows Executable</format>
+  </file>
+  <file name="cpkmaker.out.csv" source="original">
+    <mtime>1612626728</mtime>
+    <size>1288253</size>
+    <md5>790ed819f598026ff84c02bde9438e59</md5>
+    <crc32>204a7a64</crc32>
+    <sha1>af457f314ea9124b93d7ad39896e83ef76914633</sha1>
+    <format>Comma-Separated Values</format>
+  </file>
+  <file name="quickbms.exe" source="original">
+    <mtime>1612626755</mtime>
+    <size>3314688</size>
+    <md5>d8d6dc6dfac0fff8532e9dc23ec10d66</md5>
+    <crc32>a53f663f</crc32>
+    <sha1>287e304a230e033cd6c0f3b9fa966b402a89d643</sha1>
+    <format>Windows Executable</format>
+  </file>
+  <file name="quickbms_archive.torrent" source="metadata">
+    <btih>f12a9a9458c129ff87c7d2518130649aacfb37d7</btih>
+    <mtime>1613617076</mtime>
+    <size>2756</size>
+    <md5>9ef9087c4662c2b46b2628b6434c17ab</md5>
+    <crc32>eed66d74</crc32>
+    <sha1>b29400d812f7a9e28b5e34ab7c84fe1c658099c0</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="quickbms_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>743305d66b0c683076940bbd397082c3</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="quickbms_meta.sqlite" source="original">
+    <mtime>1612626765</mtime>
+    <size>22528</size>
+    <md5>bd7ece9a71115a8a0f6bfd73b0fe6fb2</md5>
+    <crc32>0833e19a</crc32>
+    <sha1>7384b8d9cdd9c447038639008e851479d1088e57</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="quickbms_meta.xml" source="original">
+    <mtime>1613617076</mtime>
+    <size>695</size>
+    <md5>fddf6cdfef8636af0aad5eda55f6bc5a</md5>
+    <crc32>815f80a4</crc32>
+    <sha1>33fedc8cea29da576645e8e9125758fb8fed7f15</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
